@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\ScrambleCorrection\ScrambleCorrection\bin\Debug\net6.0\ScrambleCorrection.exe
+C:\Users\Student\source\repos\ScrambleCorrection\ScrambleCorrection\bin\Debug\net6.0\ScrambleCorrection.deps.json
+C:\Users\Student\source\repos\ScrambleCorrection\ScrambleCorrection\bin\Debug\net6.0\ScrambleCorrection.runtimeconfig.json
+C:\Users\Student\source\repos\ScrambleCorrection\ScrambleCorrection\bin\Debug\net6.0\ScrambleCorrection.dll
+C:\Users\Student\source\repos\ScrambleCorrection\ScrambleCorrection\bin\Debug\net6.0\ref\ScrambleCorrection.dll
+C:\Users\Student\source\repos\ScrambleCorrection\ScrambleCorrection\bin\Debug\net6.0\ScrambleCorrection.pdb
+C:\Users\Student\source\repos\ScrambleCorrection\ScrambleCorrection\obj\Debug\net6.0\ScrambleCorrection.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\ScrambleCorrection\ScrambleCorrection\obj\Debug\net6.0\ScrambleCorrection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\ScrambleCorrection\ScrambleCorrection\obj\Debug\net6.0\ScrambleCorrection.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\ScrambleCorrection\ScrambleCorrection\obj\Debug\net6.0\ScrambleCorrection.AssemblyInfo.cs
+C:\Users\Student\source\repos\ScrambleCorrection\ScrambleCorrection\obj\Debug\net6.0\ScrambleCorrection.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ScrambleCorrection\ScrambleCorrection\obj\Debug\net6.0\ScrambleCorrection.dll
+C:\Users\Student\source\repos\ScrambleCorrection\ScrambleCorrection\obj\Debug\net6.0\ref\ScrambleCorrection.dll
+C:\Users\Student\source\repos\ScrambleCorrection\ScrambleCorrection\obj\Debug\net6.0\ScrambleCorrection.pdb
+C:\Users\Student\source\repos\ScrambleCorrection\ScrambleCorrection\obj\Debug\net6.0\ScrambleCorrection.genruntimeconfig.cache

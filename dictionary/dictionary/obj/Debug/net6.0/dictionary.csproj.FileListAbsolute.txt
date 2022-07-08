@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\dictionary\dictionary\bin\Debug\net6.0\dictionary.exe
+C:\Users\Student\source\repos\dictionary\dictionary\bin\Debug\net6.0\dictionary.deps.json
+C:\Users\Student\source\repos\dictionary\dictionary\bin\Debug\net6.0\dictionary.runtimeconfig.json
+C:\Users\Student\source\repos\dictionary\dictionary\bin\Debug\net6.0\dictionary.dll
+C:\Users\Student\source\repos\dictionary\dictionary\bin\Debug\net6.0\ref\dictionary.dll
+C:\Users\Student\source\repos\dictionary\dictionary\bin\Debug\net6.0\dictionary.pdb
+C:\Users\Student\source\repos\dictionary\dictionary\obj\Debug\net6.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\dictionary\dictionary\obj\Debug\net6.0\dictionary.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\dictionary\dictionary\obj\Debug\net6.0\dictionary.AssemblyInfo.cs
+C:\Users\Student\source\repos\dictionary\dictionary\obj\Debug\net6.0\dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\dictionary\dictionary\obj\Debug\net6.0\dictionary.dll
+C:\Users\Student\source\repos\dictionary\dictionary\obj\Debug\net6.0\ref\dictionary.dll
+C:\Users\Student\source\repos\dictionary\dictionary\obj\Debug\net6.0\dictionary.pdb
+C:\Users\Student\source\repos\dictionary\dictionary\obj\Debug\net6.0\dictionary.genruntimeconfig.cache
+C:\Users\Student\source\repos\dictionary\dictionary\obj\Debug\net6.0\dictionary.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\assignment 2 arithemetic operator\assignment 2 arithemetic operator\bin\Debug\net6.0\assignment 2 arithemetic operator.exe
+C:\Users\Student\source\repos\assignment 2 arithemetic operator\assignment 2 arithemetic operator\bin\Debug\net6.0\assignment 2 arithemetic operator.deps.json
+C:\Users\Student\source\repos\assignment 2 arithemetic operator\assignment 2 arithemetic operator\bin\Debug\net6.0\assignment 2 arithemetic operator.runtimeconfig.json
+C:\Users\Student\source\repos\assignment 2 arithemetic operator\assignment 2 arithemetic operator\bin\Debug\net6.0\assignment 2 arithemetic operator.dll
+C:\Users\Student\source\repos\assignment 2 arithemetic operator\assignment 2 arithemetic operator\bin\Debug\net6.0\ref\assignment 2 arithemetic operator.dll
+C:\Users\Student\source\repos\assignment 2 arithemetic operator\assignment 2 arithemetic operator\bin\Debug\net6.0\assignment 2 arithemetic operator.pdb
+C:\Users\Student\source\repos\assignment 2 arithemetic operator\assignment 2 arithemetic operator\obj\Debug\net6.0\assignment 2 arithemetic operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\assignment 2 arithemetic operator\assignment 2 arithemetic operator\obj\Debug\net6.0\assignment 2 arithemetic operator.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\assignment 2 arithemetic operator\assignment 2 arithemetic operator\obj\Debug\net6.0\assignment 2 arithemetic operator.AssemblyInfo.cs
+C:\Users\Student\source\repos\assignment 2 arithemetic operator\assignment 2 arithemetic operator\obj\Debug\net6.0\assignment 2 arithemetic operator.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\assignment 2 arithemetic operator\assignment 2 arithemetic operator\obj\Debug\net6.0\assignment 2 arithemetic operator.dll
+C:\Users\Student\source\repos\assignment 2 arithemetic operator\assignment 2 arithemetic operator\obj\Debug\net6.0\ref\assignment 2 arithemetic operator.dll
+C:\Users\Student\source\repos\assignment 2 arithemetic operator\assignment 2 arithemetic operator\obj\Debug\net6.0\assignment 2 arithemetic operator.pdb
+C:\Users\Student\source\repos\assignment 2 arithemetic operator\assignment 2 arithemetic operator\obj\Debug\net6.0\assignment 2 arithemetic operator.genruntimeconfig.cache

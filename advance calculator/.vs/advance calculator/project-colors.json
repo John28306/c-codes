@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "970e571a-8d39-4d89-b682-48afb9ffc314": {
+      "ProjectGuid": "970e571a-8d39-4d89-b682-48afb9ffc314",
+      "DisplayName": "advance calculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

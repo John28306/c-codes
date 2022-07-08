@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\Simplified Quiz App\Simplified Quiz App\bin\Debug\net6.0\Simplified Quiz App.exe
+C:\Users\Student\source\repos\Simplified Quiz App\Simplified Quiz App\bin\Debug\net6.0\Simplified Quiz App.deps.json
+C:\Users\Student\source\repos\Simplified Quiz App\Simplified Quiz App\bin\Debug\net6.0\Simplified Quiz App.runtimeconfig.json
+C:\Users\Student\source\repos\Simplified Quiz App\Simplified Quiz App\bin\Debug\net6.0\Simplified Quiz App.dll
+C:\Users\Student\source\repos\Simplified Quiz App\Simplified Quiz App\bin\Debug\net6.0\ref\Simplified Quiz App.dll
+C:\Users\Student\source\repos\Simplified Quiz App\Simplified Quiz App\bin\Debug\net6.0\Simplified Quiz App.pdb
+C:\Users\Student\source\repos\Simplified Quiz App\Simplified Quiz App\obj\Debug\net6.0\Simplified Quiz App.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Simplified Quiz App\Simplified Quiz App\obj\Debug\net6.0\Simplified Quiz App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Simplified Quiz App\Simplified Quiz App\obj\Debug\net6.0\Simplified Quiz App.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Simplified Quiz App\Simplified Quiz App\obj\Debug\net6.0\Simplified Quiz App.AssemblyInfo.cs
+C:\Users\Student\source\repos\Simplified Quiz App\Simplified Quiz App\obj\Debug\net6.0\Simplified Quiz App.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Simplified Quiz App\Simplified Quiz App\obj\Debug\net6.0\Simplified Quiz App.dll
+C:\Users\Student\source\repos\Simplified Quiz App\Simplified Quiz App\obj\Debug\net6.0\ref\Simplified Quiz App.dll
+C:\Users\Student\source\repos\Simplified Quiz App\Simplified Quiz App\obj\Debug\net6.0\Simplified Quiz App.pdb
+C:\Users\Student\source\repos\Simplified Quiz App\Simplified Quiz App\obj\Debug\net6.0\Simplified Quiz App.genruntimeconfig.cache

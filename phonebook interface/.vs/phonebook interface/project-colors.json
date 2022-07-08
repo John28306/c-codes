@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "472fe550-8531-4603-b6a4-dbe8f1dcdfff": {
+      "ProjectGuid": "472fe550-8531-4603-b6a4-dbe8f1dcdfff",
+      "DisplayName": "phonebook interface",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

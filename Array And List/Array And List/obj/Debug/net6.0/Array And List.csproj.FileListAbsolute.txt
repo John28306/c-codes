@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\Array And List\Array And List\bin\Debug\net6.0\Array And List.exe
+C:\Users\Student\source\repos\Array And List\Array And List\bin\Debug\net6.0\Array And List.deps.json
+C:\Users\Student\source\repos\Array And List\Array And List\bin\Debug\net6.0\Array And List.runtimeconfig.json
+C:\Users\Student\source\repos\Array And List\Array And List\bin\Debug\net6.0\Array And List.dll
+C:\Users\Student\source\repos\Array And List\Array And List\bin\Debug\net6.0\ref\Array And List.dll
+C:\Users\Student\source\repos\Array And List\Array And List\bin\Debug\net6.0\Array And List.pdb
+C:\Users\Student\source\repos\Array And List\Array And List\obj\Debug\net6.0\Array And List.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Array And List\Array And List\obj\Debug\net6.0\Array And List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Array And List\Array And List\obj\Debug\net6.0\Array And List.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Array And List\Array And List\obj\Debug\net6.0\Array And List.AssemblyInfo.cs
+C:\Users\Student\source\repos\Array And List\Array And List\obj\Debug\net6.0\Array And List.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Array And List\Array And List\obj\Debug\net6.0\Array And List.dll
+C:\Users\Student\source\repos\Array And List\Array And List\obj\Debug\net6.0\ref\Array And List.dll
+C:\Users\Student\source\repos\Array And List\Array And List\obj\Debug\net6.0\Array And List.pdb
+C:\Users\Student\source\repos\Array And List\Array And List\obj\Debug\net6.0\Array And List.genruntimeconfig.cache

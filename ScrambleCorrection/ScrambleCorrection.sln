@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrambleCorrection", "ScrambleCorrection\ScrambleCorrection.csproj", "{FA5034E8-C421-4F00-934D-54C7D558FE30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA5034E8-C421-4F00-934D-54C7D558FE30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5034E8-C421-4F00-934D-54C7D558FE30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5034E8-C421-4F00-934D-54C7D558FE30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5034E8-C421-4F00-934D-54C7D558FE30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89AD756E-B0A1-4D4E-AE74-BDABC7A4C269}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PROPERTIES CLASSWORK/1.0.0": {
+        "runtime": {
+          "PROPERTIES CLASSWORK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PROPERTIES CLASSWORK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

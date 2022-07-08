@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\ScrambleTEST\ScrambleTEST\bin\Debug\net6.0\ScrambleTEST.exe
+C:\Users\Student\source\repos\ScrambleTEST\ScrambleTEST\bin\Debug\net6.0\ScrambleTEST.deps.json
+C:\Users\Student\source\repos\ScrambleTEST\ScrambleTEST\bin\Debug\net6.0\ScrambleTEST.runtimeconfig.json
+C:\Users\Student\source\repos\ScrambleTEST\ScrambleTEST\bin\Debug\net6.0\ScrambleTEST.dll
+C:\Users\Student\source\repos\ScrambleTEST\ScrambleTEST\bin\Debug\net6.0\ref\ScrambleTEST.dll
+C:\Users\Student\source\repos\ScrambleTEST\ScrambleTEST\bin\Debug\net6.0\ScrambleTEST.pdb
+C:\Users\Student\source\repos\ScrambleTEST\ScrambleTEST\obj\Debug\net6.0\ScrambleTEST.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\ScrambleTEST\ScrambleTEST\obj\Debug\net6.0\ScrambleTEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\ScrambleTEST\ScrambleTEST\obj\Debug\net6.0\ScrambleTEST.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\ScrambleTEST\ScrambleTEST\obj\Debug\net6.0\ScrambleTEST.AssemblyInfo.cs
+C:\Users\Student\source\repos\ScrambleTEST\ScrambleTEST\obj\Debug\net6.0\ScrambleTEST.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ScrambleTEST\ScrambleTEST\obj\Debug\net6.0\ScrambleTEST.dll
+C:\Users\Student\source\repos\ScrambleTEST\ScrambleTEST\obj\Debug\net6.0\ref\ScrambleTEST.dll
+C:\Users\Student\source\repos\ScrambleTEST\ScrambleTEST\obj\Debug\net6.0\ScrambleTEST.pdb
+C:\Users\Student\source\repos\ScrambleTEST\ScrambleTEST\obj\Debug\net6.0\ScrambleTEST.genruntimeconfig.cache

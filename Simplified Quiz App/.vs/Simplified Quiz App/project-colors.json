@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1cddedbf-c378-46dc-b6e8-0ccbd6952da5": {
+      "ProjectGuid": "1cddedbf-c378-46dc-b6e8-0ccbd6952da5",
+      "DisplayName": "Simplified Quiz App",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
