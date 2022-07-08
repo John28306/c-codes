@@ -49,24 +49,6 @@ string number;
 
 //string SAVE = Console.ReadLine();
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 //for view
 
 //string VIEW = Console.ReadLine();
