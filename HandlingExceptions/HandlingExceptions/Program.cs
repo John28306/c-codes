@@ -6,6 +6,8 @@ try
 
     Console.WriteLine("enter second number");
     string num2 = Console.ReadLine();
+    Console.WriteLine("for divide");
+
     Console.WriteLine((decimal)int.Parse(num1) / int.Parse(num2));
 
 }
