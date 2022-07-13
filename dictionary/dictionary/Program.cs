@@ -30,7 +30,7 @@ foreach (var test in hobby)
     Console.WriteLine(test.Value);
 }
 
-//for (int i = 1; i <= hobby.Count; i++)
-//{
-//    Console.WriteLine(hobby[i]);
-//}
+for (int i = 1; i <= hobby.Count; i++)
+{
+    Console.WriteLine(hobby[i]);
+}

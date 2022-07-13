@@ -26,7 +26,7 @@
             }
 
             Console.WriteLine($"Your Total Score Is : {totalgrade}");
-            
+
             static void AskQuestion(QuizQuestion question)
             {
                 Console.WriteLine(question.Question);

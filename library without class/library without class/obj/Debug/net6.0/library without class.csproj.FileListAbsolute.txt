@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\library without class\library without class\bin\Debug\net6.0\library without class.exe
+C:\Users\Student\source\repos\library without class\library without class\bin\Debug\net6.0\library without class.deps.json
+C:\Users\Student\source\repos\library without class\library without class\bin\Debug\net6.0\library without class.runtimeconfig.json
+C:\Users\Student\source\repos\library without class\library without class\bin\Debug\net6.0\library without class.dll
+C:\Users\Student\source\repos\library without class\library without class\bin\Debug\net6.0\ref\library without class.dll
+C:\Users\Student\source\repos\library without class\library without class\bin\Debug\net6.0\library without class.pdb
+C:\Users\Student\source\repos\library without class\library without class\obj\Debug\net6.0\library without class.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\library without class\library without class\obj\Debug\net6.0\library without class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\library without class\library without class\obj\Debug\net6.0\library without class.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\library without class\library without class\obj\Debug\net6.0\library without class.AssemblyInfo.cs
+C:\Users\Student\source\repos\library without class\library without class\obj\Debug\net6.0\library without class.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\library without class\library without class\obj\Debug\net6.0\library without class.dll
+C:\Users\Student\source\repos\library without class\library without class\obj\Debug\net6.0\ref\library without class.dll
+C:\Users\Student\source\repos\library without class\library without class\obj\Debug\net6.0\library without class.pdb
+C:\Users\Student\source\repos\library without class\library without class\obj\Debug\net6.0\library without class.genruntimeconfig.cache

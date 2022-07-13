@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ad547f94-c210-41c8-a90b-0be0e9815bac": {
+      "ProjectGuid": "ad547f94-c210-41c8-a90b-0be0e9815bac",
+      "DisplayName": "library without class",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
