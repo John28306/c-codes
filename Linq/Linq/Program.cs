@@ -19,7 +19,7 @@ namespace Linq
                 new Student("Martin","Abah","200",59.5),
                 new Student("Tushnie","Utakka","200",28.5),
                 new Student("Elijah","Bala","300",35.5),
-                new Student("Elijah","moses","100",30.5)
+                new Student("Elijah","moses","100",30.5),
 
             };
             //var selectQuery = (from obj in student
