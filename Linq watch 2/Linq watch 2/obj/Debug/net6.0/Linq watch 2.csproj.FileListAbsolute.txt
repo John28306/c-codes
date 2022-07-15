@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\Linq watch 2\Linq watch 2\bin\Debug\net6.0\Linq watch 2.exe
+C:\Users\Student\source\repos\Linq watch 2\Linq watch 2\bin\Debug\net6.0\Linq watch 2.deps.json
+C:\Users\Student\source\repos\Linq watch 2\Linq watch 2\bin\Debug\net6.0\Linq watch 2.runtimeconfig.json
+C:\Users\Student\source\repos\Linq watch 2\Linq watch 2\bin\Debug\net6.0\Linq watch 2.dll
+C:\Users\Student\source\repos\Linq watch 2\Linq watch 2\bin\Debug\net6.0\ref\Linq watch 2.dll
+C:\Users\Student\source\repos\Linq watch 2\Linq watch 2\bin\Debug\net6.0\Linq watch 2.pdb
+C:\Users\Student\source\repos\Linq watch 2\Linq watch 2\obj\Debug\net6.0\Linq watch 2.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Linq watch 2\Linq watch 2\obj\Debug\net6.0\Linq watch 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Linq watch 2\Linq watch 2\obj\Debug\net6.0\Linq watch 2.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Linq watch 2\Linq watch 2\obj\Debug\net6.0\Linq watch 2.AssemblyInfo.cs
+C:\Users\Student\source\repos\Linq watch 2\Linq watch 2\obj\Debug\net6.0\Linq watch 2.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Linq watch 2\Linq watch 2\obj\Debug\net6.0\Linq watch 2.dll
+C:\Users\Student\source\repos\Linq watch 2\Linq watch 2\obj\Debug\net6.0\ref\Linq watch 2.dll
+C:\Users\Student\source\repos\Linq watch 2\Linq watch 2\obj\Debug\net6.0\Linq watch 2.pdb
+C:\Users\Student\source\repos\Linq watch 2\Linq watch 2\obj\Debug\net6.0\Linq watch 2.genruntimeconfig.cache

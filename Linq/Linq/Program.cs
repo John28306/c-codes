@@ -22,31 +22,45 @@ namespace Linq
                 new Student("Elijah","moses","100",30.5),
 
             };
-            var querySyntax = from obj in student
-                              where obj._CurrentClass == "100" && obj._ResultAverage>= 50
-                              //where obj._ResultAverage >= 50
-                              select obj;
-            foreach (var all in querySyntax)
-            {
-                Console.WriteLine($"{all._Surname}  {all._firstname} {all._CurrentClass} {all._ResultAverage} ");
-            }
-            Console.WriteLine("----------------------------");
+            //var selectQuery = (from obj in student
+            //                   select obj).ToList();
 
-            var methodSyntax = student.Where(obj => obj._CurrentClass == "100" && obj._ResultAverage >=50);
+            //var methodSyntax = student.Select(obj => obj).ToList();
+
+            var methodselect = student.SelectMany(x => x._firstname).ToList();
+
+            //foreach (var item in methodselect)
+            //{
+            //    Console.WriteLine($"{ item._Surname} {item._firstname} {item._firstname} {item._ResultAverage}");
+            //}
+
+            Console.ReadLine();
+
+            //var querySyntax = from obj in student
+            //                  where obj._CurrentClass == "100" && obj._ResultAverage>= 50
+            //                  //where obj._ResultAverage >= 50
+            //                  select obj;
+            //foreach (var all in querySyntax)
+            //{
+            //    Console.WriteLine($"{all._Surname}  {all._firstname} {all._CurrentClass} {all._ResultAverage} ");
+            //}
+            //Console.WriteLine("----------------------------");
+
+            //var methodSyntax = student.Where(obj => obj._CurrentClass == "100" && obj._ResultAverage >=50);
 
 
-            foreach (var all in methodSyntax)
-            {
-                Console.WriteLine($"{all._Surname}  {all._firstname} {all._CurrentClass} {all._ResultAverage}");
+            //foreach (var all in methodSyntax)
+            //{
+            //    Console.WriteLine($"{all._Surname}  {all._firstname} {all._CurrentClass} {all._ResultAverage}");
 
-            }
-            Console.WriteLine("----------------------------");
+            //}
+            //Console.WriteLine("----------------------------");
 
 
-            var mixedSyntax = (from obj in student
-                               select obj._ResultAverage).Max();
+            //var mixedSyntax = (from obj in student
+            //                   select obj._ResultAverage).Max();
 
-            Console.WriteLine($" Total Max= {mixedSyntax}");
+            //Console.WriteLine($" Total Max= {mixedSyntax}");
 
 
 
