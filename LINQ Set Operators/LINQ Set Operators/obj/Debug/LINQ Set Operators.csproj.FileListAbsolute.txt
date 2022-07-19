@@ -1,0 +1,8 @@
+C:\Users\Student\source\repos\LINQ Set Operators\LINQ Set Operators\bin\Debug\LINQ Set Operators.exe.config
+C:\Users\Student\source\repos\LINQ Set Operators\LINQ Set Operators\bin\Debug\LINQ Set Operators.exe
+C:\Users\Student\source\repos\LINQ Set Operators\LINQ Set Operators\bin\Debug\LINQ Set Operators.pdb
+C:\Users\Student\source\repos\LINQ Set Operators\LINQ Set Operators\obj\Debug\LINQ Set Operators.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\LINQ Set Operators\LINQ Set Operators\obj\Debug\LINQ Set Operators.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\LINQ Set Operators\LINQ Set Operators\obj\Debug\LINQ Set Operators.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\LINQ Set Operators\LINQ Set Operators\obj\Debug\LINQ Set Operators.exe
+C:\Users\Student\source\repos\LINQ Set Operators\LINQ Set Operators\obj\Debug\LINQ Set Operators.pdb

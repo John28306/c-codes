@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c5432b36-49ce-4cc2-9512-e6f5976643a4": {
+      "ProjectGuid": "c5432b36-49ce-4cc2-9512-e6f5976643a4",
+      "DisplayName": "LINQ Set Operators",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

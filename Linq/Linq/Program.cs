@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -22,12 +23,26 @@ namespace Linq
                 new Student("Elijah","moses","100",30.5),
 
             };
-            //var selectQuery = (from obj in student
-            //                   select obj).ToList();
 
-            //var methodSyntax = student.Select(obj => obj).ToList();
+            class StudentComparer : IEqualityComparer<Student>
+        {
+            public bool Equals(Student? x, Student? y)
+            {
+                return x._Surname.Equals(y._Surname) && y._Surname.Equals(x._Surname);
+            }
 
-            var methodselect = student.SelectMany(x => x._firstname).ToList();
+            public int GetHashCode([DisallowNull] Student obj)
+            {
+                int Gethashcode = obj._Surname.GetHashCode();
+                int namehashcode = obj._firstname.GetHashCode();
+            }
+        }
+        //var selectQuery = (from obj in student
+        //                   select obj).ToList();
+
+        //var methodSyntax = student.Select(obj => obj).ToList();
+
+        var methodselect = student.SelectMany(x => x._firstname).ToList();
 
             //foreach (var item in methodselect)
             //{

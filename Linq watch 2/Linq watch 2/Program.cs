@@ -17,14 +17,14 @@ namespace Linq_watch_2
                 new Employees(){id=3,name="alex", email="alex@gmail.com"},
                 new Employees(){id=4,name="samuel", email="samuel@gmail.com"},
             };
-            //var basicQuery = (from obj in employees
-            //                  select obj).ToList();
-            //var basicMethod = employees.ToList();
+            var basicQuery = (from obj in employees
+                              select obj).ToList();
+            var basicMethod = employees.ToList();
 
-            //var  basicPropQuery= (from obj in employees
-            //                      select obj.id).ToList();
+            var basicPropQuery = (from obj in employees
+                                  select obj.id).ToList();
 
-            //var basicPropMethod = employees.Select(obj=>obj.id).ToList();
+            var basicPropMethod = employees.Select(obj => obj.id).ToList();
 
             //To Select Specific Data From The Class
             var selectQuery = (from obj in employees
@@ -93,6 +93,8 @@ namespace Linq_watch_2
 
             //Using Method syntax 
             var selectMethodd = list.SelectMany(x => x).ToList();
+            //To select a single field
+
             var datasource = new List<Employees>()
             {
                 new Employees(){id=1,name="tom",email="tom@gmail.com",programming=new List<string>(){"BTC","C#","C"}},
@@ -100,7 +102,14 @@ namespace Linq_watch_2
                 new Employees(){id=3,name="Alex",email="alex@gmail.com",programming=new List<string>(){"BNB","C#","C"}},
                 new Employees(){id=4,name="dan",email="dan@gmail.com",programming=new List<string>(){"PHP","SOL","C"}}
             };
+            //using method syntax
             var methodSyntax = datasource.SelectMany(obj => obj.programming).ToList();
+
+            //using query syntax
+            var querySyntax = (from obj in datasource
+                               from ob in obj.programming
+                               select ob).ToList();
+
 
             foreach(var item in methodSyntax)
             {
