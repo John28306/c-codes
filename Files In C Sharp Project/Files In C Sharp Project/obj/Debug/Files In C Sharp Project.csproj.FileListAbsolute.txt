@@ -1,0 +1,8 @@
+C:\Users\Student\source\repos\Files In C Sharp Project\Files In C Sharp Project\bin\Debug\Files In C Sharp Project.exe.config
+C:\Users\Student\source\repos\Files In C Sharp Project\Files In C Sharp Project\bin\Debug\Files In C Sharp Project.exe
+C:\Users\Student\source\repos\Files In C Sharp Project\Files In C Sharp Project\bin\Debug\Files In C Sharp Project.pdb
+C:\Users\Student\source\repos\Files In C Sharp Project\Files In C Sharp Project\obj\Debug\Files In C Sharp Project.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Files In C Sharp Project\Files In C Sharp Project\obj\Debug\Files In C Sharp Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\Files In C Sharp Project\Files In C Sharp Project\obj\Debug\Files In C Sharp Project.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Files In C Sharp Project\Files In C Sharp Project\obj\Debug\Files In C Sharp Project.exe
+C:\Users\Student\source\repos\Files In C Sharp Project\Files In C Sharp Project\obj\Debug\Files In C Sharp Project.pdb

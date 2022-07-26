@@ -5,8 +5,6 @@
 
         static void Main(string[] args)
         {
-            Dictionary<string, string> possible_word = new Dictionary<string, string>();
-
             List<QuizQuestion> quiz = new List<QuizQuestion>()
             {
                 new QuizQuestion("how many days do we have in a week","3"," 4","6","7","D"),

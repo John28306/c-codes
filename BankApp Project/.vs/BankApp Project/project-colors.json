@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be11dbf5-47bb-47c4-a96a-f621a6b84107": {
+      "ProjectGuid": "be11dbf5-47bb-47c4-a96a-f621a6b84107",
+      "DisplayName": "BankApp Project",
+      "ColorIndex": 0
+    },
+    "3ebacf15-562f-4f19-a9ac-bdb52a6f5619": {
+      "ProjectGuid": "3ebacf15-562f-4f19-a9ac-bdb52a6f5619",
+      "DisplayName": "Bank_App_ProjectUnitTestProject1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

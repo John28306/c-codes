@@ -8,13 +8,22 @@ namespace Bolt_For_Bike
 {
     internal class User
     {
-        public string Email { get; set; }
-        public string Password { get; set; }
+        public string Fullname;
+        public string Address;
+        public string Email;
+        public string Password;
 
-        public User(string email, string password)
+
+        public User(string name, string address, string email, string password)
         {
+            Fullname = name;
+            Address = address;
             Email = email;
             Password = password;
+        }
+        public User()
+        {
+
         }
     }
 }

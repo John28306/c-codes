@@ -1,0 +1,18 @@
+C:\Users\Student\source\repos\BankApp Project\Bank_App_ProjectUnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Student\source\repos\BankApp Project\Bank_App_ProjectUnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Student\source\repos\BankApp Project\Bank_App_ProjectUnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Student\source\repos\BankApp Project\Bank_App_ProjectUnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Student\source\repos\BankApp Project\Bank_App_ProjectUnitTestProject1\bin\Debug\Bank_App_ProjectUnitTestProject1.dll
+C:\Users\Student\source\repos\BankApp Project\Bank_App_ProjectUnitTestProject1\bin\Debug\Bank_App_ProjectUnitTestProject1.pdb
+C:\Users\Student\source\repos\BankApp Project\Bank_App_ProjectUnitTestProject1\bin\Debug\BankApp Project.exe
+C:\Users\Student\source\repos\BankApp Project\Bank_App_ProjectUnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Student\source\repos\BankApp Project\Bank_App_ProjectUnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Student\source\repos\BankApp Project\Bank_App_ProjectUnitTestProject1\bin\Debug\BankApp Project.pdb
+C:\Users\Student\source\repos\BankApp Project\Bank_App_ProjectUnitTestProject1\bin\Debug\BankApp Project.exe.config
+C:\Users\Student\source\repos\BankApp Project\Bank_App_ProjectUnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Student\source\repos\BankApp Project\Bank_App_ProjectUnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Student\source\repos\BankApp Project\Bank_App_ProjectUnitTestProject1\obj\Debug\Bank_App_ProjectUnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\BankApp Project\Bank_App_ProjectUnitTestProject1\obj\Debug\Bank_App_ProjectUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\BankApp Project\Bank_App_ProjectUnitTestProject1\obj\Debug\Bank_App_ProjectUnitTestProject1.csproj.CopyComplete
+C:\Users\Student\source\repos\BankApp Project\Bank_App_ProjectUnitTestProject1\obj\Debug\Bank_App_ProjectUnitTestProject1.dll
+C:\Users\Student\source\repos\BankApp Project\Bank_App_ProjectUnitTestProject1\obj\Debug\Bank_App_ProjectUnitTestProject1.pdb

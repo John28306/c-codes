@@ -1,0 +1,8 @@
+C:\Users\Student\source\repos\SimCardApp\SimCardApp\bin\Debug\SimCardApp.exe.config
+C:\Users\Student\source\repos\SimCardApp\SimCardApp\bin\Debug\SimCardApp.exe
+C:\Users\Student\source\repos\SimCardApp\SimCardApp\bin\Debug\SimCardApp.pdb
+C:\Users\Student\source\repos\SimCardApp\SimCardApp\obj\Debug\SimCardApp.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\SimCardApp\SimCardApp\obj\Debug\SimCardApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\SimCardApp\SimCardApp\obj\Debug\SimCardApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\SimCardApp\SimCardApp\obj\Debug\SimCardApp.exe
+C:\Users\Student\source\repos\SimCardApp\SimCardApp\obj\Debug\SimCardApp.pdb

@@ -10,194 +10,142 @@ namespace Bolt_For_Bike
     {
         static void Main(String[] args)
         {
-            //for providers
-            Dictionary<string, string> providelogin = new Dictionary<string, string>();
-            Dictionary<string, string> providepassword = new Dictionary<string, string>();
+            //OBJECTIVES BOLT FOR BIKE
+            //provide signup
+            //user signup
+            //provide login
+            //user login.
 
-            List<string> Name = new List<string>();
-            List<string> Address = new List<string>();
-            List<string> Type = new List<string>();
-            List<string> Age = new List<string>();
-            List<string> Nin = new List<string>();
-            List<string> Password = new List<string>();
-
-            //for users
-            Dictionary<string, string> userlogin = new Dictionary<string, string>();
-            Dictionary<string, string> userpass = new Dictionary<string, string>();
-            List<string> userName = new List<string>();
-            List<string> userAddress = new List<string>();
-            List<string> userAge = new List<string>();
-            List<string> userPassword = new List<string>();
-
-            while (true)
+            List<User> user = new List<User>()
             {
-                Console.WriteLine("what would you want to do....1.Register....2.Login...3.Retrieve Password");
-                string op1 = Console.ReadLine();
-                if (op1 == "1")
-                {
-                    Console.WriteLine("what would you want to register as....1.Provider...2.User");
-                    string op2 = Console.ReadLine();
-                    if (op2 == "1")
-                    {
-                        Console.WriteLine("kindly fill the form Below");
-                        try
-                        {
-                            Console.WriteLine("Your Name");
-                            string name = Console.ReadLine();
-                            Name.Add(name);
+                //new User("ogbu john", "harrison adoga avenue","john28306@gmail.com","John28306"),
+                new User("", "","",""),
+                new User("","","",""),
+                new User("","","",""),
+                new User("","","",""),
+            };
 
-                            Console.WriteLine("Your Address");
-                            string address = Console.ReadLine();
-                            Address.Add(address);
-
-                            Console.WriteLine("Your bike type,eg tricycle etc");
-                            string type = Console.ReadLine();
-                            Type.Add(type);
-
-                            Console.WriteLine("Your Age");
-                            string age = Console.ReadLine();
-                            Age.Add(age);
-
-                            Console.WriteLine("Your Nin");
-                            string nin = Console.ReadLine();
-                            Nin.Add(nin);
-
-                            Console.WriteLine("Select Password");
-                            string pass = Console.ReadLine();
-                            Password.Add(pass);
-
-                            providelogin.Add(name, pass);
-                            //providepassword.Add(pass, name);
-                        }
-                        catch (Exception err)
-                        {
-                            Console.WriteLine(err);
-                        }
-                        finally
-                        {
-                            Console.WriteLine("thanks For registering,We will get back to you");
-                        }
-
-                    }
-
-                    else if (op2 == "2")
-                    {
-                        Console.WriteLine("kindly fill the form Below");
-                        try
-                        {
-                            Console.WriteLine("Your Name");
-                            string username = Console.ReadLine();
-                            userName.Add(username);
-
-                            Console.WriteLine("Your Address");
-                            string useraddress = Console.ReadLine();
-                            userAddress.Add(useraddress);
-
-                            Console.WriteLine("Your Age");
-                            string age = Console.ReadLine();
-                            userAge.Add(age);
-
-                            Console.WriteLine("Enter preffered Password");
-                            string userpassword = Console.ReadLine();
-                            userPassword.Add(userpassword);
-
-
-                            userlogin.Add(username, userpassword);
-                            userpass.Add(userpassword, username);
-                        }
-                        catch (Exception err)
-                        {
-                            Console.WriteLine(err);
-                        }
-                        finally
-                        {
-                            Console.WriteLine("thanks For registering and enjoy your ride");
-                        }
-                    }
-                    else
-                    {
-                        Console.WriteLine("Select A Valid Option");
-                    }
-
-                }
-
-                else if (op1 == "2")
-                {
-                    Console.WriteLine("Please choose Login type....1.Provider...2.User");
-                   
-                        string op2 = Console.ReadLine();
-                        if (op2 == "1")
-                        {
-                        Console.WriteLine("Enter User name");
-                            string provide = Console.ReadLine();
-                            Console.WriteLine("Enter Password");
-                            string passw= Console.ReadLine();
-                            if (providelogin.ContainsKey(provide) && providepassword.ContainsKey(passw))
-                            {
-                                Console.WriteLine("Login Successful");
-                            }
-                            else if (!providelogin.ContainsKey(provide) && providepassword.ContainsKey(passw))
-                            {
-                                Console.WriteLine("Incorrect Username");
-                            }
-                            else if (providelogin.ContainsKey(provide) && !providepassword.ContainsKey(passw))
-                            {
-                                Console.WriteLine("Incorrect Password");
-                            }
-
-                        else if (op2 == "2")
-                        {
-                            Console.WriteLine("Enter User name");
-                            string user = Console.ReadLine();
-                            Console.WriteLine("Enter Password");
-                            string userpassw = Console.ReadLine();
-                            if (userlogin.ContainsKey(user) && userpass.ContainsKey(userpassw))
-                            {
-                                Console.WriteLine("Login Successful");
-                            }
-                            else if (!userlogin.ContainsKey(user) && userpass.ContainsKey(userpassw))
-                            {
-                                Console.WriteLine("Incorrect Username");
-                            }
-                            else if (userlogin.ContainsKey(user) && !userpass.ContainsKey(userpassw))
-                            {
-                                Console.WriteLine("Incorrect Password");
-                            }
-
-                        }
-                    }
-                    
-                } 
-
-                else if (op1 == "3")
-                {
-                    Console.WriteLine("What User Type Are You?...1.Provider...2.User");
-                    string op3= Console.ReadLine();
-                    if (op3 == "1")
-                    {
-                        Console.WriteLine("Enter Username");
-                        string providname = Console.ReadLine();
-                        Console.WriteLine("Enter New Password");
-                        string newpass= Console.ReadLine();
-
-                        if (providelogin.ContainsKey(providname))
-                        {
-                            providelogin[providname] = newpass;
-                            Console.WriteLine($"{providname} updated successfully");
-                        }
-                        else
-                        {
-                            Console.WriteLine($"{providname} does not  exist");
-                        }
-
-                    }
-
-
-
-
-
-                }
+            foreach (var display in user)
+            {
+                UserLogin(display);
+                //totalgrade += CheckAnswer(display.Answer);
             }
+
+
+            static void UserLogin(User question, string fullname,string address,string email,string password)
+            {
+                //Console.WriteLine(question.Question);
+                Console.WriteLine($"Enter Fullname");
+                fullname = Console.ReadLine();
+                Console.WriteLine($"(Your address){question.Address=address}");
+                Console.WriteLine($"(Your Email) {question.Email=email}");
+                Console.WriteLine($"(Enter Password) {question.Password=password}");
+                Console.WriteLine($"Enter Option :");
+            }
+            //static int CheckAnswer(string correctanswer)
+            //{
+            //    string answer = Console.ReadLine();
+
+            //    if (answer.Equals(correctanswer, StringComparison.InvariantCultureIgnoreCase))
+            //    {
+            //        Console.WriteLine($"PASS,You've Scored 1 Point");
+            //        return 1;
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine($"FAILED");
+            //        return 0;
+            //    }
+
+            //}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            //List<User> user = new List<User>()
+            //{
+            //};
+
+            //List<Provider> provide = new List<Provider>()
+            //{
+            //};
+
+            //Console.WriteLine("What would you want to do...1.Signup...2.Login...3.Forgot_Password");
+            //string op=Console.ReadLine();
+            //if (op == "1")
+            //{
+            //    Console.WriteLine("What category do you want to register under...1.User..2.Provider");
+            //    string op1 = Console.ReadLine();
+            //    if (op1 == "1")
+            //    {
+            //        Console.WriteLine("Kindly fill the form Below");
+            //        Console.WriteLine("your Fullname");
+            //        string fullname = Console.ReadLine();
+            //        Console.WriteLine("your Email");
+            //        string email = Console.ReadLine();
+            //        Console.WriteLine("your Password");
+            //        string password = Console.ReadLine();
+            //        Console.WriteLine("your Address");
+            //        string address = Console.ReadLine();
+            //        new User(fullname,email,password,address);
+            //        Console.WriteLine("Thank You for signing up");
+            //    }
+            //    else if (op1 == "2")
+            //    {
+            //        Console.WriteLine("Kindly fill the form Below");
+            //        Console.WriteLine("your Fullname");
+            //        string fullname = Console.ReadLine();
+            //        Console.WriteLine("your Email");
+            //        string email = Console.ReadLine();
+            //        Console.WriteLine("your Password");
+            //        string password = Console.ReadLine();
+            //        Console.WriteLine("your Address");
+            //        string address = Console.ReadLine();
+            //        new User(fullname, email, password, address);
+            //        Console.WriteLine("Thank You for signing up");
+            //    }
+
+
         }
     }
 }

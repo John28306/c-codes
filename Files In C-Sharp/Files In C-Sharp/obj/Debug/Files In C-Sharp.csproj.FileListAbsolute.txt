@@ -1,0 +1,8 @@
+C:\Users\Student\source\repos\Files In C-Sharp\Files In C-Sharp\bin\Debug\Files In C-Sharp.exe.config
+C:\Users\Student\source\repos\Files In C-Sharp\Files In C-Sharp\bin\Debug\Files In C-Sharp.exe
+C:\Users\Student\source\repos\Files In C-Sharp\Files In C-Sharp\bin\Debug\Files In C-Sharp.pdb
+C:\Users\Student\source\repos\Files In C-Sharp\Files In C-Sharp\obj\Debug\Files In C-Sharp.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Files In C-Sharp\Files In C-Sharp\obj\Debug\Files In C-Sharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\Files In C-Sharp\Files In C-Sharp\obj\Debug\Files In C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Files In C-Sharp\Files In C-Sharp\obj\Debug\Files In C-Sharp.exe
+C:\Users\Student\source\repos\Files In C-Sharp\Files In C-Sharp\obj\Debug\Files In C-Sharp.pdb
