@@ -4,30 +4,27 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bolt_For_Bike
+namespace BOLT_FOR_BIKE
 {
-    internal class Provider
+    internal class Provide
     {
         public string Fullname { get; set; }
-        public string Email { get; set; }
-        public int Phone_number { get; set; }
-        public string BikeType { get; set; }
+        public string Date_of_birth { get; set; }
+        public string Address { get; set; }
         public string Username { get; set; }
         public string Password { get; set; }
 
-        public Provider(string fullname,string email,int phone,string bike,string username,string password)
+        public Provide(string fullname, string DOB, string address, string username, string password)
         {
             Fullname = fullname;
-            Email = email;
-            Phone_number = phone;
-            BikeType = bike;
+            Date_of_birth = DOB;
+            Address = address;
             Username = username;
             Password = password;
         }
+        public Provide()
+        {
 
-
-
-
-
+        }
     }
 }

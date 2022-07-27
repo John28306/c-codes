@@ -13,11 +13,11 @@ namespace Files_In_C_Sharp
         {
             string rootpath = @"C:\Users\Downloads\";
 
-            //string[] dirs = Directory.GetDirectories(rootpath, "*", SearchOption.AllDirectories);
-            //foreach (string dir in dirs)
-            //{
-            //    Console.WriteLine(dir);
-            //}
+            string[] dirs = Directory.GetDirectories(rootpath, "*", SearchOption.AllDirectories);
+            foreach (string dir in dirs)
+            {
+                Console.WriteLine(dir);
+            }
             var files = Directory.GetFiles(rootpath, "*", SearchOption.AllDirectories);
 
             foreach (string file in files)
@@ -34,7 +34,7 @@ namespace Files_In_C_Sharp
                 Console.WriteLine($"{Path.GetFileName(file)}:{info.Length} bytes");
 
                 //to check if a directory exist
-                string newpath = @"E:\Temp\Demos\FileSystem\SubFolderC";
+                string newpath = @"C:\Users\Downloads\Images";
                 bool directoryExists = Directory.Exists(newpath);
 
                 if (directoryExists)

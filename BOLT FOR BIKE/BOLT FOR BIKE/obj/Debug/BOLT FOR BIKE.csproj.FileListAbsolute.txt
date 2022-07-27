@@ -1,0 +1,8 @@
+C:\Users\Student\source\repos\BOLT FOR BIKE\BOLT FOR BIKE\bin\Debug\BOLT FOR BIKE.exe.config
+C:\Users\Student\source\repos\BOLT FOR BIKE\BOLT FOR BIKE\bin\Debug\BOLT FOR BIKE.exe
+C:\Users\Student\source\repos\BOLT FOR BIKE\BOLT FOR BIKE\bin\Debug\BOLT FOR BIKE.pdb
+C:\Users\Student\source\repos\BOLT FOR BIKE\BOLT FOR BIKE\obj\Debug\BOLT FOR BIKE.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\BOLT FOR BIKE\BOLT FOR BIKE\obj\Debug\BOLT FOR BIKE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\BOLT FOR BIKE\BOLT FOR BIKE\obj\Debug\BOLT FOR BIKE.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\BOLT FOR BIKE\BOLT FOR BIKE\obj\Debug\BOLT FOR BIKE.exe
+C:\Users\Student\source\repos\BOLT FOR BIKE\BOLT FOR BIKE\obj\Debug\BOLT FOR BIKE.pdb

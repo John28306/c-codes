@@ -12,55 +12,34 @@ namespace FileMoverApp
         static void Main(string[] args)
         {
             string path = @"C:\Users\Student\Downloads\";
+            string[] moves = Directory.GetFiles(path, "*.jpg");
 
             //To create the new subfolder.
             string imageFolder = @"C:\Users\Student\Downloads\Image\";
             Directory.CreateDirectory(imageFolder);
-            string[] moves = Directory.GetFiles(path, "*.jpg");
-
-            //string newpath = @"C:\Users\Student\Downloads\Image";
-            //bool imageExists = Directory.Exists(newpath);
 
             // 1....to move from downloads to image folder in downloads.
-            foreach (string move in moves)
-            {
-                //var info = new FileInfo(move);
-                //Console.WriteLine(info.Length);
-                if (move.Length != 0)
+                if (moves.Length == 0)
                 {
-                    Console.WriteLine("Moving Files");
-                    //To check if image file exist in folder
-                    try
-                    {
-                        File.Move(move, $"{imageFolder}{ Path.GetFileName(move)}");
-                    }
-                    // 3......to catch exception.
-                    catch (Exception err)
-                    {
-                        Console.WriteLine("File name already exist in folder");
-                    }
+                    Console.WriteLine("No image exist in this folder");
                 }
                 else
                 {
-                   
-                    Console.WriteLine("hello world");
+                      foreach (string move in moves)
+                      {
+                          //To check if image file exist in folder
+                          try
+                          {
+                              File.Move(move, $"{imageFolder}{ Path.GetFileName(move)}");
+                          }
+                          // 3......to catch exception.
+                          catch (Exception err)
+                          {
+                              Console.WriteLine("File name already exist in folder");
+                          }
+                      }
                 }
-
-
-
-            }
-           
-
-         
-
-
-
-
-
-
-
             Console.ReadLine();
-
         }
     }
 }
